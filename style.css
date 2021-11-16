@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background: url("background_image.jpg");
+    font-family: 'Petemoss', cursive;
+    color: black;
+    font-size: 30px !important;
+}
+
+h1{
+    background-color: pink !important;
+    font-size: 50px !important;
+    font-family: 'Kings', cursive;
+}
+
+h1 p{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+button{
+    background-color: hotpink !important;
+    font-size: 30px !important;
+    font-weight: bold !important;
+}
+
+canvas{
+    background-color: white;
+    border-style: ridge;
+    border-color: black;
+}
